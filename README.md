@@ -1,6 +1,6 @@
  ### ⭐ Webhook auto syncer.
 
-## auto deploy tests webhooks to stripe dashboard for stripe payments.
+## Auto deploy tests webhooks to stripe dashboard for stripe payments.
 
 🐥 No need to manually add tests webhook endpoints (e.g the ones generated with nrgok) in stripe dashboard for everytime you restart your application testing payment. 
 
